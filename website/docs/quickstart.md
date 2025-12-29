@@ -155,6 +155,8 @@ flutter run --web-header=Cross-Origin-Opener-Policy=same-origin --web-header=Cro
 
 Then, you will see a greeting from Rust, displayed in Flutter (Dart).
 
+Should an error occur, refer to the [troubleshooting page](manual/troubleshooting).
+
 ## 4. Modify it
 
 Suppose we add a *super*-simple Rust function in `rust/src/api/simple.rs`
